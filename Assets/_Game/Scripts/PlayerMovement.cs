@@ -12,7 +12,9 @@ public class PlayerMovement : MonoBehaviour
 
     public Animator hatAnimator;
 
-    Vector2 movement;
+    public List<GameObject> activeClothes = new List<GameObject>();
+
+    private Vector2 movement;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,12 +30,34 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.sqrMagnitude);
 
-        hatAnimator.SetFloat("Horizontal", movement.x);
-        hatAnimator.SetFloat("Vertical", movement.y);
-        hatAnimator.SetFloat("Speed", movement.sqrMagnitude);
+
+        AnimateClothes();
     }
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position + movement.normalized * moveSpeed * Time.fixedDeltaTime);
     }
+
+    private void AnimateClothes()
+    {
+        Animator a = null;
+        foreach (GameObject clothingItem in activeClothes)
+        {
+            a = clothingItem.GetComponent<Animator>();
+            a.SetFloat("Horizontal", movement.x);
+            a.SetFloat("Vertical", movement.y);
+            a.SetFloat("Speed", movement.sqrMagnitude);
+        }
+    }
+
+    public void AddClothing(GameObject clothingItemPrefab)
+    {
+
+        GameObject clothingItem = Instantiate(clothingItemPrefab);
+        activeClothes.Add(clothingItem);
+
+        clothingItem.transform.SetParent(transform);
+        clothingItem.transform.localPosition = Vector3.zero;
+    }
+
 }

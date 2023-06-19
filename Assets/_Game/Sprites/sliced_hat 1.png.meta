@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: fb83b88897b1ec84f883eac9cfd282bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sliced_hat 1_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 489
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3ee0918d2596b46958896124911fc4
+      internalID: 1409574157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 479
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec998bffb8e1e64ca4627f45b54b174
+      internalID: 1064638325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 479
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fa458d1569c5e458e3c8d3cd21b5a0
+      internalID: -1339029294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 485
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8f12d6e4579f043bd87ceb048c7911
+      internalID: -1606426329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 489
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef570d306bfe9d5438e2ed033dd48c34
+      internalID: 978413348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 483
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfeb895480807b488f68f7cc7fff0bd
+      internalID: 1330131028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 490
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88904c84bda0f5e4f9c172fb4b20d6c5
+      internalID: -1876581284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 489
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f510a8c1529e7489a68f88078f77d4
+      internalID: -1154842019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 424
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2744a3fd49e6e034eaf0d5550fe22134
+      internalID: 693986232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 422
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d288cd40c26d214b9b4125be20636d9
+      internalID: 1082599828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 423
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d728ec97c6cd8ca409c1f5127cff22d8
+      internalID: -2081445398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 423
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9b897e63917c241a6b2b0bea741c85
+      internalID: -2044685285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 419
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6f7ba0a5db9584986da1a05c7489a1
+      internalID: -1596260588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 420
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89529d221869efd4e87b849c3d1e29a6
+      internalID: 1523696828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 422
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5f7fb550cadbe4882972aae05a2029
+      internalID: -439775441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 423
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0490fe0b20d9f294a9eac131879900c6
+      internalID: -316553288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 362
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d19ba052d6799459ed582d5b1c434d
+      internalID: -746383953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 361
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b40ab4e061d1b428b27645fb0ed45b
+      internalID: -774978589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 360
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350037c221372f34fba3f8c51bcf6b31
+      internalID: 2047439223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 361
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c949491c4a726e429bda86146947bd1
+      internalID: -1678821384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 361
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc36fc7239cb64587f7a31f8c2acf5
+      internalID: -1541480322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 356
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3878880039bc408c38dfb1dd45795
+      internalID: -480079249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 359
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e554c2c9bdbc84ab3b0c030d81aea6
+      internalID: 1989341788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_23
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 361
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca3c1d6677d6a448cfe9347a1889ad
+      internalID: 7078890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 298
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e1c51a337347489cb373015e43c0c
+      internalID: -321585274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 297
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a67472fad919545840a8a6ce1cef00
+      internalID: 1701403898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 296
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bc622dd307d4e47a53be1e705cc2d7
+      internalID: -994780063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 297
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394246461217ffc40a9af1552bbeaf75
+      internalID: -1514006316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 297
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c2d9344b3c78443917499dbe3f7974
+      internalID: 654297238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 292
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfcbc33b992d0b4ab91e3a0e0cc95e9
+      internalID: 1853956443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_30
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 295
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9b02b5729e5044c9964a1d038b719e
+      internalID: 2119485562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 297
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911eec2247535504fa2cd89fd84fed5d
+      internalID: 72870695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 232
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5e46a22021a494887c7b40dc59f0d5
+      internalID: 1864592316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 233
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c4c17e869b8d4c8dc07eb496ec644
+      internalID: -1840431676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 233
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d24dc00b11b4e4294c275a0b5d03cf
+      internalID: -929261962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_35
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 232
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ddae5d8d67e3b4da085a51c4ebfe80
+      internalID: -1250147365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 233
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6e4af204f322f43a921ecdab3f8246
+      internalID: -1855703661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 233
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889b77f23120c234dadcf0351f13f64a
+      internalID: 867045531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 236
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd666de5383e704cbbcea8157061071
+      internalID: 952775935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 236
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f6455d67e851429004d58233e27a0
+      internalID: 1006096021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 167
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba3673f46d6a5c4889b5d82f0be9fe8
+      internalID: -36364707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_41
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 168
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ea985074ebbbe42aca7fd5ba35c42f
+      internalID: -1287322053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 168
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232c5e9623da5ea4a879442a5bda75c7
+      internalID: -1300660193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 167
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29dcba51c25c2f4f9e3a3d3205dd787
+      internalID: 1473242121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680c58d444770cd4d992e2fd9b25927c
+      internalID: -1906556118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_45
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 168
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6ef509added1b4cbc7751105ec97b6
+      internalID: 2094110522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_46
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 170
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b3c858b894dc42a6dcc820e028aa8
+      internalID: -1892498947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_47
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233ac9a5c0befb9439472347e1e357f3
+      internalID: 288976935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 106
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0715e5b8b2196a74fa488d7f54794ae2
+      internalID: 2056524917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 105
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45be3a89d21b5442899df41ff75431f
+      internalID: 172735023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 104
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a462f6239c408ea4fa9d10e6b68e8c2b
+      internalID: 179776587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 105
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28527c3eb08dfe45b32f1efa9ba1ba5
+      internalID: -707034692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 106
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d062e0921c42c4b46bf09235bd5e566f
+      internalID: 2076029117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 105
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21f47ae9aa804f4fb76cf4f01b9d97f
+      internalID: -921965216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 107
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea717b5153b13a40b8f37d1dcc69c0c
+      internalID: -1868629633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_55
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 108
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a108a2f7ae9a0743885059aa44cca66
+      internalID: 2035158954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 42
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e737773289601c4780b745c745f1d22
+      internalID: 139218974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 41
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412a1025d3fee9f4b9d92a708fe8ea10
+      internalID: 910824990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 40
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec3f906ce377c49b038a4b63a221b8
+      internalID: 1909382159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 41
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff222159f3f441944b2d260df5c20713
+      internalID: 1495739927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 42
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa1204c6f81c3d4390d497e42d535b5
+      internalID: -1663238086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_61
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 41
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ee049369bb4743aee548b11a4f53b
+      internalID: -671495437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 43
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffb816094262744b8abb0ee09b45370
+      internalID: -264504374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sliced_hat 1_63
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 44
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e763243d1f3a80c4d9f5ddb3bea804ca
+      internalID: -1985162283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sliced_hat 1_0: 1409574157
+      sliced_hat 1_30: 2119485562
+      sliced_hat 1_24: -321585274
+      sliced_hat 1_26: -994780063
+      sliced_hat 1_28: 654297238
+      sliced_hat 1_32: 1864592316
+      sliced_hat 1_10: -2081445398
+      sliced_hat 1_4: 978413348
+      sliced_hat 1_34: -929261962
+      sliced_hat 1_18: 2047439223
+      sliced_hat 1_46: -1892498947
+      sliced_hat 1_8: 693986232
+      sliced_hat 1_55: 2035158954
+      sliced_hat 1_29: 1853956443
+      sliced_hat 1_44: -1906556118
+      sliced_hat 1_23: 7078890
+      sliced_hat 1_40: -36364707
+      sliced_hat 1_51: -707034692
+      sliced_hat 1_11: -2044685285
+      sliced_hat 1_50: 179776587
+      sliced_hat 1_47: 288976935
+      sliced_hat 1_5: 1330131028
+      sliced_hat 1_36: -1855703661
+      sliced_hat 1_39: 1006096021
+      sliced_hat 1_42: -1300660193
+      sliced_hat 1_56: 139218974
+      sliced_hat 1_31: 72870695
+      sliced_hat 1_2: -1339029294
+      sliced_hat 1_41: -1287322053
+      sliced_hat 1_21: -480079249
+      sliced_hat 1_12: -1596260588
+      sliced_hat 1_14: -439775441
+      sliced_hat 1_19: -1678821384
+      sliced_hat 1_3: -1606426329
+      sliced_hat 1_57: 910824990
+      sliced_hat 1_13: 1523696828
+      sliced_hat 1_27: -1514006316
+      sliced_hat 1_35: -1250147365
+      sliced_hat 1_20: -1541480322
+      sliced_hat 1_63: -1985162283
+      sliced_hat 1_15: -316553288
+      sliced_hat 1_54: -1868629633
+      sliced_hat 1_53: -921965216
+      sliced_hat 1_62: -264504374
+      sliced_hat 1_17: -774978589
+      sliced_hat 1_61: -671495437
+      sliced_hat 1_1: 1064638325
+      sliced_hat 1_58: 1909382159
+      sliced_hat 1_60: -1663238086
+      sliced_hat 1_25: 1701403898
+      sliced_hat 1_9: 1082599828
+      sliced_hat 1_45: 2094110522
+      sliced_hat 1_48: 2056524917
+      sliced_hat 1_37: 867045531
+      sliced_hat 1_22: 1989341788
+      sliced_hat 1_7: -1154842019
+      sliced_hat 1_16: -746383953
+      sliced_hat 1_49: 172735023
+      sliced_hat 1_6: -1876581284
+      sliced_hat 1_38: 952775935
+      sliced_hat 1_33: -1840431676
+      sliced_hat 1_43: 1473242121
+      sliced_hat 1_59: 1495739927
+      sliced_hat 1_52: 2076029117
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
