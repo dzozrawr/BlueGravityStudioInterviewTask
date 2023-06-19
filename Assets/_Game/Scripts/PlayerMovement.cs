@@ -10,6 +10,8 @@ public class PlayerMovement : MonoBehaviour
 
     public Animator animator;
 
+    public Animator hatAnimator;
+
     Vector2 movement;
     // Start is called before the first frame update
     void Start()
@@ -25,6 +27,10 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.sqrMagnitude);
+
+        hatAnimator.SetFloat("Horizontal", movement.x);
+        hatAnimator.SetFloat("Vertical", movement.y);
+        hatAnimator.SetFloat("Speed", movement.sqrMagnitude);
     }
     private void FixedUpdate()
     {
