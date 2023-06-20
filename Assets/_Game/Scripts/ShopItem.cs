@@ -15,7 +15,7 @@ public abstract class ShopItem : MonoBehaviour
     public TMP_Text priceText = null;
     public TMP_Text descrText = null;
 
-    protected GameObject itemPrefab = null;
+  //  protected GameObject itemPrefab = null;
     protected int price;
 
 
@@ -48,6 +48,6 @@ public abstract class ShopItem : MonoBehaviour
         price = info.price;
         priceText.text = price + "";
 
-        itemPrefab = itemInfo.itemPrefab;
+       // itemPrefab = itemInfo.itemPrefab;
     }
 }

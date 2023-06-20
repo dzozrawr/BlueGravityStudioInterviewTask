@@ -9,7 +9,7 @@ public class BuyShopItem : ShopItem
     {
         if (GameController.CoinAmount >= price)
         {
-            gameController.player.AddClothing(itemPrefab);
+            //gameController.player.AddClothing(itemPrefab);
             gameObject.SetActive(false);//remove it from shop
             //play buying Sound effect
             gameController.AddMoney(-price);    //subtract money

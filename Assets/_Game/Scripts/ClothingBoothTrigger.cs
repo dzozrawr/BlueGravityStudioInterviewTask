@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ClothingBoothTrigger : MonoBehaviour
 {
-    public BoothCanvas boothCanvas = null;
+    public ClothingBooth boothCanvas = null;
 
     private bool isInTrigger = false;
 

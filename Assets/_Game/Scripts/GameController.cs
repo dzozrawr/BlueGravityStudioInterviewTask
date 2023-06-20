@@ -22,6 +22,7 @@ public class GameController : MonoBehaviour
     {
         public ClothingItemInfo itemInfo;
         public bool isBought = false;
+        public bool isEquipped = false;
     }
 
     public ItemStatus[] itemStatuses = null;

@@ -17,6 +17,13 @@ public class SellShopItem : ShopItem
         if (itemStatus != null)
         {
             itemStatus.isBought = false;
+
+            if (itemStatus.isEquipped)
+            {
+                gameController.player.RemoveItem(itemInfo.id);
+            }
+
+            itemStatus.isEquipped = false;
         }
 
     }
