@@ -7,7 +7,7 @@ using UnityEngine.UI;
 //using text
 
 [RequireComponent(typeof(Button))]
-public class ShopItem : MonoBehaviour
+public abstract class ShopItem : MonoBehaviour
 {
     public ClothingItemInfo itemInfo = null;
 
@@ -15,13 +15,13 @@ public class ShopItem : MonoBehaviour
     public TMP_Text priceText = null;
     public TMP_Text descrText = null;
 
-    private GameObject itemPrefab = null;
-    private int price;
+    protected GameObject itemPrefab = null;
+    protected int price;
 
 
-    private Button button = null;
+    protected Button button = null;
 
-    private GameController gameController = null;
+    protected GameController gameController = null;
 
     private void Awake()
     {
@@ -35,28 +35,7 @@ public class ShopItem : MonoBehaviour
     {
         gameController = GameController.Instance;
     }
-    private void OnClick()
-    {
-        if (GameController.CoinAmount >= price)
-        {
-            gameController.player.AddClothing(itemPrefab);
-            gameObject.SetActive(false);//remove it from shop
-            //play buying Sound effect
-            gameController.AddMoney(-price);    //subtract money
-
-
-            GameController.ItemStatus itemStatus = gameController.FindItemStatus(itemInfo);
-
-            if (itemStatus != null)
-            {
-                itemStatus.isBought = true;
-            }
-        }
-        else
-        {
-            //play error sound effect maybe
-        }
-    }
+    protected abstract void OnClick();
 
     public void SetItemInfo(ClothingItemInfo info)
     {

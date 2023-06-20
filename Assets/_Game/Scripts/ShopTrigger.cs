@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class ShopTrigger : MonoBehaviour
 {
-    public ShopBuyController shopController = null;
+    public ShopPrompt shopPrompt = null;
+    public ShopController buyShopController = null, sellShopController = null;
 
     private bool isInTrigger = false;
 
@@ -14,7 +15,18 @@ public class ShopTrigger : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.E))
             {
-                shopController.ShowShop(!shopController.IsShown());
+                if (!shopPrompt.IsShown() && !buyShopController.IsShown() && !sellShopController.IsShown())
+                {
+                    shopPrompt.Show(true);
+                }
+                else
+                {
+                    shopPrompt.Show(false);
+                    buyShopController.Show(false);
+                    sellShopController.Show(false);
+                }
+
+                // buyShopController.ShowShop(!buyShopController.IsShown());
             }
         }
     }
@@ -26,7 +38,10 @@ public class ShopTrigger : MonoBehaviour
     private void OnTriggerExit2D(Collider2D collision)
     {
         isInTrigger = false;
-        shopController.ShowShop(false);
+
+        shopPrompt.Show(false);
+        buyShopController.Show(false);
+        sellShopController.Show(false);
     }
 
 
