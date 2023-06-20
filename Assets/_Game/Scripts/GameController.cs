@@ -1,18 +1,31 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using ClothingItems;
 
 public class GameController : MonoBehaviour
 {
     private static GameController instance = null;
 
     public static GameController Instance { get => instance; }
+
     private static int coinAmount;
     public static int CoinAmount { get => coinAmount; set => coinAmount = value; }
-    public PlayerMovement player = null;
-    public delegate void GameControllerEvent();
 
+    public delegate void GameControllerEvent();
     public GameControllerEvent MoneyAmountChanged;
+
+    public PlayerMovement player = null;
+
+    [System.Serializable]
+    public class ItemStatus
+    {
+        public ClothingItemInfo itemInfo;
+        public bool isBought = false;
+    }
+
+    public ItemStatus[] itemStatuses = null;
+
 
     private void Awake()
     {
@@ -29,8 +42,24 @@ public class GameController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
+
+    public ItemStatus FindItemStatus(ClothingItemInfo itemInfo)
+    {
+        ItemStatus foundItemStatus = null;
+        foreach (ItemStatus item in itemStatuses)
+        {
+            if (item.itemInfo == itemInfo)
+            {
+                foundItemStatus = item;
+                break;
+            }
+        }
+
+        return foundItemStatus;
+    }
+
     public void AddMoney(int moneyAmountToAdd)
     {
         coinAmount += moneyAmountToAdd;

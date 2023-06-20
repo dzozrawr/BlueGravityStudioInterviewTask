@@ -1,3 +1,4 @@
+using ClothingItems;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -8,9 +9,15 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Button))]
 public class ShopItem : MonoBehaviour
 {
-    public GameObject itemPrefab = null;
-    public int price;
+    public ClothingItemInfo itemInfo = null;
+
+    public Image itemImage = null;
     public TMP_Text priceText = null;
+    public TMP_Text descrText = null;
+
+    private GameObject itemPrefab = null;
+    private int price;
+
 
     private Button button = null;
 
@@ -21,7 +28,7 @@ public class ShopItem : MonoBehaviour
         button = GetComponent<Button>();
         button.onClick.AddListener(OnClick);
 
-        priceText.text = price + "";
+        SetItemInfo(itemInfo);
     }
 
     private void Start()
@@ -36,11 +43,32 @@ public class ShopItem : MonoBehaviour
             gameObject.SetActive(false);//remove it from shop
             //play buying Sound effect
             gameController.AddMoney(-price);    //subtract money
+
+
+            GameController.ItemStatus itemStatus = gameController.FindItemStatus(itemInfo);
+
+            if (itemStatus != null)
+            {
+                itemStatus.isBought = true;
+            }
         }
         else
         {
             //play error sound effect maybe
         }
+    }
 
+    public void SetItemInfo(ClothingItemInfo info)
+    {
+        if (info == null) return;
+        itemInfo = info;
+
+        itemImage.sprite = info.sprite;
+        descrText.text = info.description;
+
+        price = info.price;
+        priceText.text = price + "";
+
+        itemPrefab = itemInfo.itemPrefab;
     }
 }

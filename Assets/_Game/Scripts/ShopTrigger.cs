@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ShopTrigger : MonoBehaviour
 {
-    public Canvas shopCanvas = null;
+    public ShopBuyController shopController = null;
 
     private bool isInTrigger = false;
 
@@ -14,7 +14,7 @@ public class ShopTrigger : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.E))
             {
-                shopCanvas.gameObject.SetActive(!shopCanvas.gameObject.activeSelf);
+                shopController.ShowShop(!shopController.IsShown());
             }
         }
     }
@@ -26,7 +26,7 @@ public class ShopTrigger : MonoBehaviour
     private void OnTriggerExit2D(Collider2D collision)
     {
         isInTrigger = false;
-        shopCanvas.gameObject.SetActive(false);
+        shopController.ShowShop(false);
     }
 
 
