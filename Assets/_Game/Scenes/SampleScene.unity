@@ -466,8 +466,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1054.93, y: 673.56}
+  m_AnchoredPosition: {x: 0, y: -0}
+  m_SizeDelta: {x: 1102.829, y: 900.519}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &208437392
 MonoBehaviour:
@@ -522,9 +522,9 @@ MonoBehaviour:
   m_Padding:
     m_Left: 0
     m_Right: 0
-    m_Top: 0
+    m_Top: 40
     m_Bottom: 0
-  m_ChildAlignment: 0
+  m_ChildAlignment: 1
   m_Spacing: 0
   m_ChildForceExpandWidth: 0
   m_ChildForceExpandHeight: 0
@@ -2109,8 +2109,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1054.93, y: 673.56}
+  m_AnchoredPosition: {x: 0, y: -0}
+  m_SizeDelta: {x: 1102.829, y: 900.519}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1098704713
 MonoBehaviour:
@@ -2165,9 +2165,9 @@ MonoBehaviour:
   m_Padding:
     m_Left: 0
     m_Right: 0
-    m_Top: 0
+    m_Top: 40
     m_Bottom: 0
-  m_ChildAlignment: 0
+  m_ChildAlignment: 1
   m_Spacing: 0
   m_ChildForceExpandWidth: 0
   m_ChildForceExpandHeight: 0
@@ -3485,6 +3485,9 @@ MonoBehaviour:
     isBought: 0
     isEquipped: 0
   - itemInfo: {fileID: 11400000, guid: 07c8cd887bccd704e8ad7df99efbf312, type: 2}
+    isBought: 0
+    isEquipped: 0
+  - itemInfo: {fileID: 11400000, guid: 97ec578ff7dfc0a4c9b09fd1c90176c8, type: 2}
     isBought: 0
     isEquipped: 0
 --- !u!1 &2051875453
@@ -6141,7 +6144,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2088071726}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 

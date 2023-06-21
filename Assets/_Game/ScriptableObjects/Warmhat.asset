@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c04f9a61b9dd1846bfa9b620926774f, type: 3}
+  m_Name: Warmhat
+  m_EditorClassIdentifier: 
+  id: 3
+  itemPrefab: {fileID: 7020897014575928630, guid: 2bd9b9927f21c804ab4880d1a5f4e661, type: 3}
+  sprite: {fileID: -1172821923, guid: fe628f46c4c87a64fb8b7aacff24037a, type: 3}
+  description: The warmest of hats
+  price: 10

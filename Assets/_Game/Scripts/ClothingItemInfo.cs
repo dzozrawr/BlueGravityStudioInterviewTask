@@ -7,7 +7,7 @@ namespace ClothingItems
 {
     public enum ItemID
     {
-        WizardHat, YellowSuit, BlueSuit
+        WizardHat, YellowSuit, BlueSuit, WarmHat
     }
 
     public enum ClothingType

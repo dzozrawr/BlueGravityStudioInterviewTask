@@ -19,6 +19,8 @@ public class GameController : MonoBehaviour
     public PlayerMovement player = null;
     public CinemachineVirtualCamera defaultPlayerFollowCamera = null;
 
+    public int initialCoinAmount = 60;
+
     [System.Serializable]
     public class ItemStatus
     {
@@ -39,7 +41,7 @@ public class GameController : MonoBehaviour
         }
         instance = this;
 
-        CoinAmount = 50;
+        CoinAmount = initialCoinAmount;
     }
 
     // Start is called before the first frame update
