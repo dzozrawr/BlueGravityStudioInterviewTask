@@ -1,14 +1,24 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Cinemachine;
 
 public class ClothingBoothTrigger : MonoBehaviour
 {
     public ClothingBooth boothCanvas = null;
 
     public Canvas actionPromptCanvas = null;
+    public CinemachineVirtualCamera clothingBoothVCam = null;
 
     private bool isInTrigger = false;
+
+    private GameController gameController = null;
+
+
+    private void Start()
+    {
+        gameController = GameController.Instance;
+    }
 
     private void Update()
     {
@@ -18,6 +28,14 @@ public class ClothingBoothTrigger : MonoBehaviour
             {
                 boothCanvas.Show(!boothCanvas.IsShown());
                 actionPromptCanvas.enabled = false;
+                if (boothCanvas.IsShown())
+                {
+                    CameraController.Instance.transitionToCMVirtualCamera(clothingBoothVCam);
+                }
+                else
+                {
+                    CameraController.Instance.transitionToCMVirtualCamera(gameController.defaultPlayerFollowCamera);
+                }
             }
         }
     }
@@ -33,5 +51,7 @@ public class ClothingBoothTrigger : MonoBehaviour
 
         boothCanvas.Show(false);
         actionPromptCanvas.enabled = false;
+
+        CameraController.Instance.transitionToCMVirtualCamera(gameController.defaultPlayerFollowCamera);
     }
 }

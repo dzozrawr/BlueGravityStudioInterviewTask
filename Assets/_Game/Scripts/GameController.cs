@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using ClothingItems;
+using Cinemachine;
 
 public class GameController : MonoBehaviour
 {
@@ -16,6 +17,7 @@ public class GameController : MonoBehaviour
     public GameControllerEvent MoneyAmountChanged;
 
     public PlayerMovement player = null;
+    public CinemachineVirtualCamera defaultPlayerFollowCamera = null;
 
     [System.Serializable]
     public class ItemStatus
