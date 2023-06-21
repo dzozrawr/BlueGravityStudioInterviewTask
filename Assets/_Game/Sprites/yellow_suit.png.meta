@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ea0e190aa2c774044a6a02c195500bca
+guid: 0734be0d0ec18e0459dcb92bc0dd414d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_0
+      name: yellow_suit_0
       rect:
         serializedVersion: 2
         x: 0
@@ -118,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e64594e3b0e53341a218c46276e4bd1
-      internalID: 506848701
+      spriteID: 230a2961e3f03b341939e641a3590eef
+      internalID: -1356716149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_1
+      name: yellow_suit_1
       rect:
         serializedVersion: 2
         x: 64
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27a8a38171f359f478f74298eb58885a
-      internalID: 398353816
+      spriteID: eedc7905c0b59b446b1437c7349fae8c
+      internalID: 186662103
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_2
+      name: yellow_suit_2
       rect:
         serializedVersion: 2
         x: 128
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3482ff912d32e3342885ab2be85b06b8
-      internalID: -1916819943
+      spriteID: a42dd5e560a574e4bab07094c06866b5
+      internalID: 1662146399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_3
+      name: yellow_suit_3
       rect:
         serializedVersion: 2
         x: 192
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a507e373c03c85e4d972377a7b662c1c
-      internalID: -539167512
+      spriteID: e374bd53d1764614a8069d9021340f45
+      internalID: 58275299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_4
+      name: yellow_suit_4
       rect:
         serializedVersion: 2
         x: 256
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 514a7affeec02344c81f6e8ebcafb1f6
-      internalID: 443709240
+      spriteID: d8b6d9a334db14d4aa8ba4120b13c0ad
+      internalID: 2004278296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_5
+      name: yellow_suit_5
       rect:
         serializedVersion: 2
         x: 320
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 502a6a88ab309194f9c000507ef4084c
-      internalID: 390756935
+      spriteID: 9051bf80f7df840458a1ac08c060b991
+      internalID: 2125130327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_6
+      name: yellow_suit_6
       rect:
         serializedVersion: 2
         x: 384
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de899f1be1ea3974bb33c1b0b73b1784
-      internalID: 452978731
+      spriteID: 6eca81c3e4365164a8ba55cd65bd8554
+      internalID: 1836672180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_7
+      name: yellow_suit_7
       rect:
         serializedVersion: 2
         x: 448
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 522b3ade2e1fb2e4296f6f40048e66a3
-      internalID: 1663547377
+      spriteID: b18c9c95bbfae974cb433e7af0698a3b
+      internalID: 452535175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_8
+      name: yellow_suit_8
       rect:
         serializedVersion: 2
         x: 0
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ee973d7606afba48b5d8e8ea236ebd8
-      internalID: -10021783
+      spriteID: d699363743f543f419a06e51baa9a23a
+      internalID: -2008894525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_9
+      name: yellow_suit_9
       rect:
         serializedVersion: 2
         x: 64
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 642530e8d82638e47ac21fff4fe3e95b
-      internalID: 76892916
+      spriteID: 989575ecf0071b84f820af3761bb968b
+      internalID: -752218609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_10
+      name: yellow_suit_10
       rect:
         serializedVersion: 2
         x: 128
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0871f9f241d2d0479237f5bd28d7387
-      internalID: -24345350
+      spriteID: 4afbb869476714f46817a7c79aebe427
+      internalID: -1157796537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_11
+      name: yellow_suit_11
       rect:
         serializedVersion: 2
         x: 192
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f24285bd61a31404d98cb2ff95a7679b
-      internalID: -254661083
+      spriteID: 64095c7d8d576af4c92a41e88cab2bfa
+      internalID: 1067736594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_12
+      name: yellow_suit_12
       rect:
         serializedVersion: 2
         x: 256
@@ -370,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b63ac02afef1bce4fad34a77fa24f05e
-      internalID: -1296944180
+      spriteID: d1329424312606b44aaa55d04929c811
+      internalID: -1609504998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_13
+      name: yellow_suit_13
       rect:
         serializedVersion: 2
         x: 320
@@ -391,14 +391,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 505a1fb83de1f524d99d20bb085cbdc3
-      internalID: 1474968843
+      spriteID: ea39af6d4f7b48d4d950a6556bc4f950
+      internalID: -1401749811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_14
+      name: yellow_suit_14
       rect:
         serializedVersion: 2
         x: 384
@@ -412,14 +412,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffb29e01b0ed54b449acfcb3fdfc3bc1
-      internalID: 1479099075
+      spriteID: 4363a03f076f5374daf5d3462730f857
+      internalID: 240572071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_15
+      name: yellow_suit_15
       rect:
         serializedVersion: 2
         x: 448
@@ -433,14 +433,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3c9652d15c688446a7eb07003d82c54
-      internalID: 1126223366
+      spriteID: a19da8523616aba47a4b2f547027954a
+      internalID: -540708715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_16
+      name: yellow_suit_16
       rect:
         serializedVersion: 2
         x: 0
@@ -454,14 +454,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d2c3a14c8518ed4cb2e8e4c93dd2a29
-      internalID: -1521444845
+      spriteID: 67c312f969b4c364d9962332be8b6b58
+      internalID: 239437242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_17
+      name: yellow_suit_17
       rect:
         serializedVersion: 2
         x: 64
@@ -475,14 +475,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b6378e83071b864dade22f80dd1d958
-      internalID: 693147406
+      spriteID: 474648c21a6a9224bb17342cc3931bc4
+      internalID: -103609266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_18
+      name: yellow_suit_18
       rect:
         serializedVersion: 2
         x: 128
@@ -496,14 +496,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a98eb531a5cae3e47bebf39237c60f62
-      internalID: 1092356384
+      spriteID: 9d7b1238cc17732409a1b3cd56329be5
+      internalID: -763390076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_19
+      name: yellow_suit_19
       rect:
         serializedVersion: 2
         x: 192
@@ -517,14 +517,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9458a029fa3cf34284d4d9de2da4b64
-      internalID: -799830381
+      spriteID: f4657cb7802a3554e9ad0484fa770e0a
+      internalID: 1039673074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_20
+      name: yellow_suit_20
       rect:
         serializedVersion: 2
         x: 256
@@ -538,14 +538,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9438a2a19d24c96478372e63d69bd57e
-      internalID: 478208978
+      spriteID: fc136793d24a1814bb45a6deee765941
+      internalID: -2029863065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_21
+      name: yellow_suit_21
       rect:
         serializedVersion: 2
         x: 320
@@ -559,14 +559,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b7b9fa860af7d047a63afac3ae00a70
-      internalID: 365364565
+      spriteID: baa56c7c98959994ea3b6ac812cae63c
+      internalID: 1845681633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_22
+      name: yellow_suit_22
       rect:
         serializedVersion: 2
         x: 384
@@ -580,14 +580,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8c619c89fa35b145acbb70d63f4cbfd
-      internalID: 1394611032
+      spriteID: a6d4bc027217e034abb46f881ef9f965
+      internalID: -441355746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_23
+      name: yellow_suit_23
       rect:
         serializedVersion: 2
         x: 448
@@ -601,14 +601,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 357b9277d101ba847845dec127b2fb5a
-      internalID: 1852123155
+      spriteID: 18fda27a0b6972943b0efde6166e375a
+      internalID: 621689795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_24
+      name: yellow_suit_24
       rect:
         serializedVersion: 2
         x: 0
@@ -622,14 +622,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d57bb4d9520cdf40b39099cc3b9c273
-      internalID: -755786925
+      spriteID: 087c7e90a44c4734083c630aa1be07af
+      internalID: -1920443712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_25
+      name: yellow_suit_25
       rect:
         serializedVersion: 2
         x: 64
@@ -643,14 +643,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e194d283720aba04cb920856d13f0850
-      internalID: -955401152
+      spriteID: 06dc311c5e3f18246802b52ceda42f21
+      internalID: 893267397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_26
+      name: yellow_suit_26
       rect:
         serializedVersion: 2
         x: 128
@@ -664,14 +664,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b4eb5c1a5f836849bbfded32dcd88d7
-      internalID: 772706824
+      spriteID: d45fe9dcbd0366748a13148ae6c13657
+      internalID: -323942316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_27
+      name: yellow_suit_27
       rect:
         serializedVersion: 2
         x: 192
@@ -685,14 +685,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6ab118ef4270b54daa1fee371d73148
-      internalID: 1293715813
+      spriteID: 140d5862c316c1a4d8eb5edba5882316
+      internalID: 1232054826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_28
+      name: yellow_suit_28
       rect:
         serializedVersion: 2
         x: 256
@@ -706,14 +706,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f689626f8d727e49923d66c16fb55a3
-      internalID: 130882393
+      spriteID: 71b842e6598797b44bba235753f3e9e5
+      internalID: -793384865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_29
+      name: yellow_suit_29
       rect:
         serializedVersion: 2
         x: 320
@@ -727,14 +727,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2d403b3c10fca249ac132fdc98052a3
-      internalID: -1783366817
+      spriteID: d7ba35389b373a34d8fc7bf29218be88
+      internalID: -650245088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_30
+      name: yellow_suit_30
       rect:
         serializedVersion: 2
         x: 384
@@ -748,14 +748,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7ccc53f37a07284995333393e4a757b
-      internalID: -474934628
+      spriteID: e8bb3da66f4ca634c8434a34a1d888d1
+      internalID: -1266659130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_31
+      name: yellow_suit_31
       rect:
         serializedVersion: 2
         x: 448
@@ -769,14 +769,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc92d82a53cefbb4c890217f668d9d00
-      internalID: -282912186
+      spriteID: 29d245a508f8bdb41b7b30f94a4aec81
+      internalID: -689221357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_32
+      name: yellow_suit_32
       rect:
         serializedVersion: 2
         x: 0
@@ -790,14 +790,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f915fdc85c7275f44a58bb2b7eed44c9
-      internalID: -1915788971
+      spriteID: c5b819332ad2e654b9a0f96ede88d1df
+      internalID: 1153531940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_33
+      name: yellow_suit_33
       rect:
         serializedVersion: 2
         x: 64
@@ -811,14 +811,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c5b76f9afbcc7b4d865e07301817a60
-      internalID: -1111540509
+      spriteID: 8ddecc0fabbd9414a97a5abc718f3a43
+      internalID: -149032233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_34
+      name: yellow_suit_34
       rect:
         serializedVersion: 2
         x: 128
@@ -832,14 +832,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e25cfed5e9301941806b7a7020b414c
-      internalID: 1359291082
+      spriteID: 244abb7b94149f94ab9f77dbe7f35881
+      internalID: -151903849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_35
+      name: yellow_suit_35
       rect:
         serializedVersion: 2
         x: 192
@@ -853,14 +853,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb384cb878ef8144ea763a499ebc292c
-      internalID: 663971563
+      spriteID: d428a25b3b3edd944a10ddcb4bfb0137
+      internalID: 1181494410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_36
+      name: yellow_suit_36
       rect:
         serializedVersion: 2
         x: 256
@@ -874,14 +874,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c1554291d10d584b81c93ccb776958b
-      internalID: 1729229229
+      spriteID: f4d634a2f648830419c96de51c0d0a5b
+      internalID: 704888264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_37
+      name: yellow_suit_37
       rect:
         serializedVersion: 2
         x: 320
@@ -895,14 +895,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 847a49600a5e49a4b8c52b90e6b61420
-      internalID: 215104617
+      spriteID: 93cc192d76e126049b78951bb163ff1b
+      internalID: 691503324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_38
+      name: yellow_suit_38
       rect:
         serializedVersion: 2
         x: 384
@@ -916,14 +916,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8df1c0029a469fe4d852f766b09cc83d
-      internalID: -1427357989
+      spriteID: a9ae8acf77127e040bd45d369aab992f
+      internalID: -465534924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_39
+      name: yellow_suit_39
       rect:
         serializedVersion: 2
         x: 448
@@ -937,14 +937,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bbfcad8d7e7fc749be9f95f00bc94b6
-      internalID: -1973597605
+      spriteID: c4315dac6237afb4baeb3b2a936d14db
+      internalID: 877033724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_40
+      name: yellow_suit_40
       rect:
         serializedVersion: 2
         x: 0
@@ -958,14 +958,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16f9f65db1a9f624e99ce82389cc403a
-      internalID: 499549304
+      spriteID: ca9b53dc20481c840bedc1c535857f32
+      internalID: 302360909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_41
+      name: yellow_suit_41
       rect:
         serializedVersion: 2
         x: 64
@@ -979,14 +979,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b27ec4725466a4c44b6af4c838ac98bc
-      internalID: -1223236899
+      spriteID: 5228a57a055281942a581df3190d02f5
+      internalID: 638042050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_42
+      name: yellow_suit_42
       rect:
         serializedVersion: 2
         x: 128
@@ -1000,14 +1000,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f0312e3d29dfe346865cc1c3022e8f2
-      internalID: 2073286677
+      spriteID: fbef520106908e541a6e85ad206607ca
+      internalID: -74425060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_43
+      name: yellow_suit_43
       rect:
         serializedVersion: 2
         x: 192
@@ -1021,14 +1021,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9449dae052af9034aa0d243342c175f1
-      internalID: 423579670
+      spriteID: 58b78d1a0a650d749a677a5013ea80e5
+      internalID: -1200899003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_44
+      name: yellow_suit_44
       rect:
         serializedVersion: 2
         x: 256
@@ -1042,14 +1042,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29c097dd7df783c4bb646b5bc808d867
-      internalID: 2006114230
+      spriteID: cbe31638df100174d9ca0eb4e524539e
+      internalID: -1160678018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_45
+      name: yellow_suit_45
       rect:
         serializedVersion: 2
         x: 320
@@ -1063,14 +1063,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61d6a971ab610824789138261f967a21
-      internalID: 1383142598
+      spriteID: d3ed9b9b4eb4e1a4aa2324493e6be668
+      internalID: 1366337204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_46
+      name: yellow_suit_46
       rect:
         serializedVersion: 2
         x: 384
@@ -1084,14 +1084,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d0c5f687eec9a945870068e2af32fd1
-      internalID: 1968908637
+      spriteID: 261b4b080b2c3ca429ba121d0d183183
+      internalID: 2121349824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_47
+      name: yellow_suit_47
       rect:
         serializedVersion: 2
         x: 448
@@ -1105,14 +1105,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 993044b7e0d5e144eb8a0cca916072d9
-      internalID: -1563982684
+      spriteID: 6c796c155699ed54c9db46d505790d80
+      internalID: -912417785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_48
+      name: yellow_suit_48
       rect:
         serializedVersion: 2
         x: 0
@@ -1126,14 +1126,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 573ad3d02899d1d43b450e8d2f0bd988
-      internalID: -1557646106
+      spriteID: 576e139de34d5bd48bc58c9676046438
+      internalID: -504602600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_49
+      name: yellow_suit_49
       rect:
         serializedVersion: 2
         x: 64
@@ -1147,14 +1147,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca3c83c072f007a46a72c8ebf6083725
-      internalID: 1315192650
+      spriteID: bd645980ca9af294cafa47b1fcc82ee8
+      internalID: -1421667024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_50
+      name: yellow_suit_50
       rect:
         serializedVersion: 2
         x: 128
@@ -1168,14 +1168,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 399ffcf7944e19141b7a00304fd82761
-      internalID: -1118639777
+      spriteID: 896c28746556f3b40ae714c24517e486
+      internalID: -758312854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_51
+      name: yellow_suit_51
       rect:
         serializedVersion: 2
         x: 192
@@ -1189,14 +1189,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 949a80c4af92149419ad1c4e265dd9d7
-      internalID: -1965843192
+      spriteID: eb9bba62e6fea834e87aebc0ac510131
+      internalID: 989011876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_52
+      name: yellow_suit_52
       rect:
         serializedVersion: 2
         x: 256
@@ -1210,14 +1210,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98faca7eb8f2af345b0fd59695dd09a9
-      internalID: 1654759662
+      spriteID: 1a74a18460fb84143af2be33967ec40f
+      internalID: 48522101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_53
+      name: yellow_suit_53
       rect:
         serializedVersion: 2
         x: 320
@@ -1231,14 +1231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf74755a08e548942aac682eb808c298
-      internalID: 355947606
+      spriteID: 88b09351aa1a5b54da1bb8793439d168
+      internalID: -1141917368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_54
+      name: yellow_suit_54
       rect:
         serializedVersion: 2
         x: 384
@@ -1252,14 +1252,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 195c2a4e03ddc6d4c8f5719d10239e64
-      internalID: -1845728832
+      spriteID: 7daf584d50f76ba498a36b0fc3fa5e41
+      internalID: 944025391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_55
+      name: yellow_suit_55
       rect:
         serializedVersion: 2
         x: 448
@@ -1273,14 +1273,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed5ad90df71fbec40875cf1012f827cf
-      internalID: 2122531072
+      spriteID: 55894fa68b20f514ab5e6739d9e9b308
+      internalID: 1014675646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_56
+      name: yellow_suit_56
       rect:
         serializedVersion: 2
         x: 0
@@ -1294,14 +1294,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3348c73c7a94d5469f1d64bc6070060
-      internalID: -618969470
+      spriteID: bd7a3d7b60744b34e95f8ef805c29e81
+      internalID: 1247859407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_57
+      name: yellow_suit_57
       rect:
         serializedVersion: 2
         x: 64
@@ -1315,14 +1315,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bdd65698f0496a43842e52d7a9adb8e
-      internalID: 1297003972
+      spriteID: 782d33959969c6e4f85127b1391178b4
+      internalID: 931967554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_58
+      name: yellow_suit_58
       rect:
         serializedVersion: 2
         x: 128
@@ -1336,14 +1336,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b66d487fb339c34a9d4c73d866891d1
-      internalID: 1355951874
+      spriteID: f4b9885d0d405ea4190bbb0aee65e99d
+      internalID: -1614939904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_59
+      name: yellow_suit_59
       rect:
         serializedVersion: 2
         x: 192
@@ -1357,14 +1357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7607ce96e24dcdd4bbdf5707009c39b7
-      internalID: -1821978718
+      spriteID: a3119b99a0ae5824181798d366ac5e1a
+      internalID: 2117768611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_60
+      name: yellow_suit_60
       rect:
         serializedVersion: 2
         x: 256
@@ -1378,14 +1378,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d37970d0940c2cd4f92ed8dd0fb67e9a
-      internalID: -1707064397
+      spriteID: 2066f6c2dc490bb4fb941b8dc1d7b972
+      internalID: 1728020184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_61
+      name: yellow_suit_61
       rect:
         serializedVersion: 2
         x: 320
@@ -1399,14 +1399,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25342e9d806e9b14484e1323fa41c743
-      internalID: 238838921
+      spriteID: a3a4801edee42ea4e84d8194e1590992
+      internalID: -862400153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_62
+      name: yellow_suit_62
       rect:
         serializedVersion: 2
         x: 384
@@ -1420,14 +1420,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac154c2dbb88e6349868384a490d0680
-      internalID: -1913892824
+      spriteID: 62e8faeda00545044b89122434849f8f
+      internalID: 728579811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_63
+      name: yellow_suit_63
       rect:
         serializedVersion: 2
         x: 448
@@ -1441,8 +1441,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04af8fa9109befe459719400871600b8
-      internalID: 850506240
+      spriteID: d433bd048ea86324eb9bb72e82bc3f4e
+      internalID: -1486955073
       vertices: []
       indices: 
       edges: []
@@ -1458,70 +1458,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      char_a_p1_0bas_humn_v01 1_32: -1915788971
-      char_a_p1_0bas_humn_v01 1_58: 1355951874
-      char_a_p1_0bas_humn_v01 1_13: 1474968843
-      char_a_p1_0bas_humn_v01 1_53: 355947606
-      char_a_p1_0bas_humn_v01 1_50: -1118639777
-      char_a_p1_0bas_humn_v01 1_45: 1383142598
-      char_a_p1_0bas_humn_v01 1_24: -755786925
-      char_a_p1_0bas_humn_v01 1_31: -282912186
-      char_a_p1_0bas_humn_v01 1_8: -10021783
-      char_a_p1_0bas_humn_v01 1_27: 1293715813
-      char_a_p1_0bas_humn_v01 1_51: -1965843192
-      char_a_p1_0bas_humn_v01 1_46: 1968908637
-      char_a_p1_0bas_humn_v01 1_54: -1845728832
-      char_a_p1_0bas_humn_v01 1_56: -618969470
-      char_a_p1_0bas_humn_v01 1_48: -1557646106
-      char_a_p1_0bas_humn_v01 1_38: -1427357989
-      char_a_p1_0bas_humn_v01 1_47: -1563982684
-      char_a_p1_0bas_humn_v01 1_17: 693147406
-      char_a_p1_0bas_humn_v01 1_25: -955401152
-      char_a_p1_0bas_humn_v01 1_63: 850506240
-      char_a_p1_0bas_humn_v01 1_16: -1521444845
-      char_a_p1_0bas_humn_v01 1_18: 1092356384
-      char_a_p1_0bas_humn_v01 1_2: -1916819943
-      char_a_p1_0bas_humn_v01 1_4: 443709240
-      char_a_p1_0bas_humn_v01 1_60: -1707064397
-      char_a_p1_0bas_humn_v01 1_40: 499549304
-      char_a_p1_0bas_humn_v01 1_1: 398353816
-      char_a_p1_0bas_humn_v01 1_12: -1296944180
-      char_a_p1_0bas_humn_v01 1_23: 1852123155
-      char_a_p1_0bas_humn_v01 1_33: -1111540509
-      char_a_p1_0bas_humn_v01 1_42: 2073286677
-      char_a_p1_0bas_humn_v01 1_29: -1783366817
-      char_a_p1_0bas_humn_v01 1_28: 130882393
-      char_a_p1_0bas_humn_v01 1_5: 390756935
-      char_a_p1_0bas_humn_v01 1_37: 215104617
-      char_a_p1_0bas_humn_v01 1_59: -1821978718
-      char_a_p1_0bas_humn_v01 1_15: 1126223366
-      char_a_p1_0bas_humn_v01 1_52: 1654759662
-      char_a_p1_0bas_humn_v01 1_20: 478208978
-      char_a_p1_0bas_humn_v01 1_43: 423579670
-      char_a_p1_0bas_humn_v01 1_26: 772706824
-      char_a_p1_0bas_humn_v01 1_10: -24345350
-      char_a_p1_0bas_humn_v01 1_7: 1663547377
-      char_a_p1_0bas_humn_v01 1_19: -799830381
-      char_a_p1_0bas_humn_v01 1_35: 663971563
-      char_a_p1_0bas_humn_v01 1_57: 1297003972
-      char_a_p1_0bas_humn_v01 1_9: 76892916
-      char_a_p1_0bas_humn_v01 1_39: -1973597605
-      char_a_p1_0bas_humn_v01 1_3: -539167512
-      char_a_p1_0bas_humn_v01 1_44: 2006114230
-      char_a_p1_0bas_humn_v01 1_61: 238838921
-      char_a_p1_0bas_humn_v01 1_0: 506848701
-      char_a_p1_0bas_humn_v01 1_6: 452978731
-      char_a_p1_0bas_humn_v01 1_14: 1479099075
-      char_a_p1_0bas_humn_v01 1_11: -254661083
-      char_a_p1_0bas_humn_v01 1_41: -1223236899
-      char_a_p1_0bas_humn_v01 1_30: -474934628
-      char_a_p1_0bas_humn_v01 1_49: 1315192650
-      char_a_p1_0bas_humn_v01 1_21: 365364565
-      char_a_p1_0bas_humn_v01 1_22: 1394611032
-      char_a_p1_0bas_humn_v01 1_36: 1729229229
-      char_a_p1_0bas_humn_v01 1_62: -1913892824
-      char_a_p1_0bas_humn_v01 1_34: 1359291082
-      char_a_p1_0bas_humn_v01 1_55: 2122531072
+      yellow_suit_42: -74425060
+      yellow_suit_17: -103609266
+      yellow_suit_10: -1157796537
+      yellow_suit_13: -1401749811
+      yellow_suit_48: -504602600
+      yellow_suit_30: -1266659130
+      yellow_suit_32: 1153531940
+      yellow_suit_38: -465534924
+      yellow_suit_57: 931967554
+      yellow_suit_50: -758312854
+      yellow_suit_11: 1067736594
+      yellow_suit_56: 1247859407
+      yellow_suit_20: -2029863065
+      yellow_suit_0: -1356716149
+      yellow_suit_4: 2004278296
+      yellow_suit_16: 239437242
+      yellow_suit_28: -793384865
+      yellow_suit_60: 1728020184
+      yellow_suit_39: 877033724
+      yellow_suit_59: 2117768611
+      yellow_suit_55: 1014675646
+      yellow_suit_25: 893267397
+      yellow_suit_41: 638042050
+      yellow_suit_14: 240572071
+      yellow_suit_52: 48522101
+      yellow_suit_49: -1421667024
+      yellow_suit_3: 58275299
+      yellow_suit_36: 704888264
+      yellow_suit_53: -1141917368
+      yellow_suit_61: -862400153
+      yellow_suit_23: 621689795
+      yellow_suit_2: 1662146399
+      yellow_suit_44: -1160678018
+      yellow_suit_12: -1609504998
+      yellow_suit_29: -650245088
+      yellow_suit_5: 2125130327
+      yellow_suit_47: -912417785
+      yellow_suit_1: 186662103
+      yellow_suit_33: -149032233
+      yellow_suit_15: -540708715
+      yellow_suit_8: -2008894525
+      yellow_suit_46: 2121349824
+      yellow_suit_6: 1836672180
+      yellow_suit_27: 1232054826
+      yellow_suit_31: -689221357
+      yellow_suit_63: -1486955073
+      yellow_suit_62: 728579811
+      yellow_suit_26: -323942316
+      yellow_suit_7: 452535175
+      yellow_suit_22: -441355746
+      yellow_suit_43: -1200899003
+      yellow_suit_24: -1920443712
+      yellow_suit_19: 1039673074
+      yellow_suit_18: -763390076
+      yellow_suit_51: 989011876
+      yellow_suit_34: -151903849
+      yellow_suit_40: 302360909
+      yellow_suit_21: 1845681633
+      yellow_suit_45: 1366337204
+      yellow_suit_54: 944025391
+      yellow_suit_35: 1181494410
+      yellow_suit_58: -1614939904
+      yellow_suit_37: 691503324
+      yellow_suit_9: -752218609
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

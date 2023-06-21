@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4c04f9a61b9dd1846bfa9b620926774f, type: 3}
-  m_Name: WizardHat
+  m_Name: YellowSuit
   m_EditorClassIdentifier: 
-  id: 0
-  itemPrefab: {fileID: 1710873888842959058, guid: cff856e6edc9ded41baf268a8fa0c6cf, type: 3}
-  sprite: {fileID: -875680272, guid: e6143a8fcdf39c64ca8873bb4ea1e461, type: 3}
-  description: A hat for a wizard
-  price: 5
+  id: 1
+  itemPrefab: {fileID: 2899960080947744236, guid: 05da377d03292864bb18fa6869d3a831, type: 3}
+  sprite: {fileID: -724574083, guid: a22e56cf349ae2a44a8f4c9e5303cc46, type: 3}
+  description: A yellow stylish suit
+  price: 15

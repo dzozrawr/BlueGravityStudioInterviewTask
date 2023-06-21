@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ea0e190aa2c774044a6a02c195500bca
+guid: e7ad62fec1ae3a241b59a335de66d2a6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_0
+      name: blue_suit_big_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 448
-        width: 64
-        height: 64
+        x: 25
+        y: 468
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e64594e3b0e53341a218c46276e4bd1
-      internalID: 506848701
+      spriteID: c8cd7eeb441cbaf4680471866e3469c6
+      internalID: 1729746432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_1
+      name: blue_suit_big_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 448
-        width: 64
-        height: 64
+        x: 88
+        y: 466
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27a8a38171f359f478f74298eb58885a
-      internalID: 398353816
+      spriteID: 6dd767cbf9aebd7458fc86231a7882fb
+      internalID: 443451145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_2
+      name: blue_suit_big_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 448
-        width: 64
-        height: 64
+        x: 152
+        y: 467
+        width: 16
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3482ff912d32e3342885ab2be85b06b8
-      internalID: -1916819943
+      spriteID: 61c3a5e207e758f44a5f26c5eb3b5cb9
+      internalID: -1983683788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_3
+      name: blue_suit_big_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 448
-        width: 64
-        height: 64
+        x: 216
+        y: 466
+        width: 14
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a507e373c03c85e4d972377a7b662c1c
-      internalID: -539167512
+      spriteID: 1b720270f525f5846b13dddd67bacb81
+      internalID: 1582595050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_4
+      name: blue_suit_big_4
       rect:
         serializedVersion: 2
-        x: 256
-        y: 448
-        width: 64
-        height: 64
+        x: 280
+        y: 468
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 514a7affeec02344c81f6e8ebcafb1f6
-      internalID: 443709240
+      spriteID: 4fd7a453dadacaa4f9bf31e00adbe2ed
+      internalID: -1957342590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_5
+      name: blue_suit_big_5
       rect:
         serializedVersion: 2
-        x: 320
-        y: 448
-        width: 64
-        height: 64
+        x: 342
+        y: 468
+        width: 20
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 502a6a88ab309194f9c000507ef4084c
-      internalID: 390756935
+      spriteID: 6f038bfb566928844a5da31426738254
+      internalID: 592732381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_6
+      name: blue_suit_big_6
       rect:
         serializedVersion: 2
-        x: 384
-        y: 448
-        width: 64
-        height: 64
+        x: 408
+        y: 466
+        width: 16
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de899f1be1ea3974bb33c1b0b73b1784
-      internalID: 452978731
+      spriteID: 147a656ffbc181344afbcba9a9115606
+      internalID: 467575564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_7
+      name: blue_suit_big_7
       rect:
         serializedVersion: 2
-        x: 448
-        y: 448
-        width: 64
-        height: 64
+        x: 471
+        y: 470
+        width: 18
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 522b3ade2e1fb2e4296f6f40048e66a3
-      internalID: 1663547377
+      spriteID: 5590acde379e73c4c84660e23a5b8fbd
+      internalID: 1544426397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_8
+      name: blue_suit_big_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 384
-        width: 64
-        height: 64
+        x: 25
+        y: 404
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ee973d7606afba48b5d8e8ea236ebd8
-      internalID: -10021783
+      spriteID: 9d8850df9f1c44e4ba3ea767c03e76c8
+      internalID: -1521723593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_9
+      name: blue_suit_big_9
       rect:
         serializedVersion: 2
-        x: 64
-        y: 384
-        width: 64
-        height: 64
+        x: 88
+        y: 403
+        width: 16
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +307,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 642530e8d82638e47ac21fff4fe3e95b
-      internalID: 76892916
+      spriteID: f97c04a6430cefe498ace59dfa6c8b73
+      internalID: 1904428901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_10
+      name: blue_suit_big_10
       rect:
         serializedVersion: 2
-        x: 128
-        y: 384
-        width: 64
-        height: 64
+        x: 152
+        y: 404
+        width: 16
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,20 +328,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0871f9f241d2d0479237f5bd28d7387
-      internalID: -24345350
+      spriteID: 90bd58efbb599e84a8e3f2eea35723f1
+      internalID: 1070903926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_11
+      name: blue_suit_big_11
       rect:
         serializedVersion: 2
-        x: 192
-        y: 384
-        width: 64
-        height: 64
+        x: 216
+        y: 404
+        width: 16
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,20 +349,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f24285bd61a31404d98cb2ff95a7679b
-      internalID: -254661083
+      spriteID: cd15a3a3abd5209448f5441f49d25d9e
+      internalID: -168820282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_12
+      name: blue_suit_big_12
       rect:
         serializedVersion: 2
-        x: 256
-        y: 384
-        width: 64
-        height: 64
+        x: 280
+        y: 403
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,20 +370,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b63ac02afef1bce4fad34a77fa24f05e
-      internalID: -1296944180
+      spriteID: 22373cf75823c7b4b8c79f94a831cce1
+      internalID: -915186862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_13
+      name: blue_suit_big_13
       rect:
         serializedVersion: 2
-        x: 320
-        y: 384
-        width: 64
-        height: 64
+        x: 343
+        y: 404
+        width: 18
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,20 +391,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 505a1fb83de1f524d99d20bb085cbdc3
-      internalID: 1474968843
+      spriteID: 14dcc1f03a5ee7d498147a4b11c6693c
+      internalID: -1243682046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_14
+      name: blue_suit_big_14
       rect:
         serializedVersion: 2
-        x: 384
-        y: 384
-        width: 64
-        height: 64
+        x: 407
+        y: 399
+        width: 18
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,20 +412,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffb29e01b0ed54b449acfcb3fdfc3bc1
-      internalID: 1479099075
+      spriteID: 31bce76654f36bb40bd94b1070dd0ce0
+      internalID: 931447797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_15
+      name: blue_suit_big_15
       rect:
         serializedVersion: 2
-        x: 448
-        y: 384
-        width: 64
-        height: 64
+        x: 474
+        y: 404
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,20 +433,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3c9652d15c688446a7eb07003d82c54
-      internalID: 1126223366
+      spriteID: 59ee1406fcdf62146b769ed6400edd7b
+      internalID: -64043212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_16
+      name: blue_suit_big_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 320
-        width: 64
-        height: 64
+        x: 27
+        y: 340
+        width: 11
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,20 +454,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d2c3a14c8518ed4cb2e8e4c93dd2a29
-      internalID: -1521444845
+      spriteID: 6279469327ed6e84ea1bea34c9982a43
+      internalID: 392936134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_17
+      name: blue_suit_big_17
       rect:
         serializedVersion: 2
-        x: 64
-        y: 320
-        width: 64
-        height: 64
+        x: 89
+        y: 340
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,20 +475,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b6378e83071b864dade22f80dd1d958
-      internalID: 693147406
+      spriteID: d7a80778b0f4d2e4885d71fd3385c2c9
+      internalID: 2108752009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_18
+      name: blue_suit_big_18
       rect:
         serializedVersion: 2
-        x: 128
-        y: 320
-        width: 64
-        height: 64
+        x: 150
+        y: 340
+        width: 19
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,20 +496,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a98eb531a5cae3e47bebf39237c60f62
-      internalID: 1092356384
+      spriteID: f7baa41e26873fd4b94acfcea41d4d6c
+      internalID: 365161156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_19
+      name: blue_suit_big_19
       rect:
         serializedVersion: 2
-        x: 192
-        y: 320
-        width: 64
-        height: 64
+        x: 219
+        y: 340
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -517,20 +517,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9458a029fa3cf34284d4d9de2da4b64
-      internalID: -799830381
+      spriteID: 958cf1d82d824ed49ab9543188c2264b
+      internalID: -998519726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_20
+      name: blue_suit_big_20
       rect:
         serializedVersion: 2
-        x: 256
-        y: 320
-        width: 64
-        height: 64
+        x: 278
+        y: 340
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,20 +538,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9438a2a19d24c96478372e63d69bd57e
-      internalID: 478208978
+      spriteID: 4aa7bd795856eb54aa628f88ba927cc5
+      internalID: -1695343776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_21
+      name: blue_suit_big_21
       rect:
         serializedVersion: 2
-        x: 320
-        y: 320
-        width: 64
-        height: 64
+        x: 347
+        y: 340
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -559,20 +559,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b7b9fa860af7d047a63afac3ae00a70
-      internalID: 365364565
+      spriteID: ca3e9d44238e7aa4ea3de92ffc0f8d57
+      internalID: -1436261001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_22
+      name: blue_suit_big_22
       rect:
         serializedVersion: 2
-        x: 384
-        y: 320
-        width: 64
-        height: 64
+        x: 412
+        y: 335
+        width: 14
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -580,20 +580,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8c619c89fa35b145acbb70d63f4cbfd
-      internalID: 1394611032
+      spriteID: a75e0a9c162299b4dbebf2dd5cfe0c2b
+      internalID: 456504903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_23
+      name: blue_suit_big_23
       rect:
         serializedVersion: 2
-        x: 448
-        y: 320
-        width: 64
-        height: 64
+        x: 476
+        y: 341
+        width: 13
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -601,20 +601,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 357b9277d101ba847845dec127b2fb5a
-      internalID: 1852123155
+      spriteID: 918e3291deec7a44f8150d761382dc82
+      internalID: 596753514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_24
+      name: blue_suit_big_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
-        width: 64
-        height: 64
+        x: 26
+        y: 276
+        width: 11
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -622,20 +622,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d57bb4d9520cdf40b39099cc3b9c273
-      internalID: -755786925
+      spriteID: f39d236917a01a143af58c37886f1688
+      internalID: 520532013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_25
+      name: blue_suit_big_25
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256
-        width: 64
-        height: 64
+        x: 87
+        y: 276
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -643,20 +643,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e194d283720aba04cb920856d13f0850
-      internalID: -955401152
+      spriteID: a4a5116bcf6fad245a4a439eb6742c24
+      internalID: 759875148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_26
+      name: blue_suit_big_26
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
-        width: 64
-        height: 64
+        x: 151
+        y: 276
+        width: 19
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -664,20 +664,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b4eb5c1a5f836849bbfded32dcd88d7
-      internalID: 772706824
+      spriteID: 283d777f9a26b994b87dac761951b2da
+      internalID: -1847795075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_27
+      name: blue_suit_big_27
       rect:
         serializedVersion: 2
-        x: 192
-        y: 256
-        width: 64
-        height: 64
+        x: 218
+        y: 276
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -685,20 +685,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6ab118ef4270b54daa1fee371d73148
-      internalID: 1293715813
+      spriteID: c58cef6f12ce1724192f5536fc80af3f
+      internalID: 2052019223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_28
+      name: blue_suit_big_28
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
-        width: 64
-        height: 64
+        x: 279
+        y: 276
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,20 +706,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f689626f8d727e49923d66c16fb55a3
-      internalID: 130882393
+      spriteID: 2f088f9f0f905514cb9c243bb2bbce05
+      internalID: -1104545443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_29
+      name: blue_suit_big_29
       rect:
         serializedVersion: 2
-        x: 320
-        y: 256
-        width: 64
-        height: 64
+        x: 342
+        y: 276
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,20 +727,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2d403b3c10fca249ac132fdc98052a3
-      internalID: -1783366817
+      spriteID: 1434648390832f14a9a6c320b08eb8e3
+      internalID: -393851235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_30
+      name: blue_suit_big_30
       rect:
         serializedVersion: 2
-        x: 384
-        y: 256
-        width: 64
-        height: 64
+        x: 406
+        y: 271
+        width: 14
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,20 +748,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7ccc53f37a07284995333393e4a757b
-      internalID: -474934628
+      spriteID: 3173d26cf43786d459370b6822811a51
+      internalID: -1954276021
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_31
+      name: blue_suit_big_31
       rect:
         serializedVersion: 2
-        x: 448
-        y: 256
-        width: 64
-        height: 64
+        x: 471
+        y: 277
+        width: 13
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -769,20 +769,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc92d82a53cefbb4c890217f668d9d00
-      internalID: -282912186
+      spriteID: a8a09e1667d027c4ba19cfefc1ed493b
+      internalID: 483186079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_32
+      name: blue_suit_big_32
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 64
-        height: 64
+        x: 25
+        y: 211
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -790,20 +790,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f915fdc85c7275f44a58bb2b7eed44c9
-      internalID: -1915788971
+      spriteID: 4f69271fd6cc9a54c8fc0704295f8719
+      internalID: 1414837303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_33
+      name: blue_suit_big_33
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 64
-        height: 64
+        x: 89
+        y: 211
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -811,20 +811,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c5b76f9afbcc7b4d865e07301817a60
-      internalID: -1111540509
+      spriteID: 7db085c48c71d0f4e992e5af16478b0b
+      internalID: -1099501468
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_34
+      name: blue_suit_big_34
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
-        width: 64
-        height: 64
+        x: 153
+        y: 211
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -832,20 +832,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e25cfed5e9301941806b7a7020b414c
-      internalID: 1359291082
+      spriteID: 8d84eb2cdcd916f48a14839d40afb189
+      internalID: -1813113023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_35
+      name: blue_suit_big_35
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
-        width: 64
-        height: 64
+        x: 218
+        y: 211
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -853,20 +853,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb384cb878ef8144ea763a499ebc292c
-      internalID: 663971563
+      spriteID: 33bd7d44a9a29734aaf9112ec127abfa
+      internalID: -583674949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_36
+      name: blue_suit_big_36
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
-        width: 64
-        height: 64
+        x: 281
+        y: 211
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,20 +874,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c1554291d10d584b81c93ccb776958b
-      internalID: 1729229229
+      spriteID: 71f88d79339d37f49b593488a7c270ac
+      internalID: -1676722953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_37
+      name: blue_suit_big_37
       rect:
         serializedVersion: 2
-        x: 320
-        y: 192
-        width: 64
-        height: 64
+        x: 344
+        y: 211
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -895,20 +895,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 847a49600a5e49a4b8c52b90e6b61420
-      internalID: 215104617
+      spriteID: 1754b21473dc4ae4ebc8ced64c67eb3d
+      internalID: -1953232952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_38
+      name: blue_suit_big_38
       rect:
         serializedVersion: 2
-        x: 384
-        y: 192
-        width: 64
-        height: 64
+        x: 408
+        y: 212
+        width: 17
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -916,20 +916,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8df1c0029a469fe4d852f766b09cc83d
-      internalID: -1427357989
+      spriteID: 83d58efa0d9fae444b9fd665fe8533b8
+      internalID: -1845136189
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_39
+      name: blue_suit_big_39
       rect:
         serializedVersion: 2
-        x: 448
-        y: 192
-        width: 64
-        height: 64
+        x: 471
+        y: 212
+        width: 17
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -937,20 +937,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bbfcad8d7e7fc749be9f95f00bc94b6
-      internalID: -1973597605
+      spriteID: 946de931833e74e4e955722429772e2f
+      internalID: -1262933159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_40
+      name: blue_suit_big_40
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 64
-        height: 64
+        x: 26
+        y: 147
+        width: 13
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -958,20 +958,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16f9f65db1a9f624e99ce82389cc403a
-      internalID: 499549304
+      spriteID: 407c866ad3965e0498f408dd461e632e
+      internalID: 784995112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_41
+      name: blue_suit_big_41
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
+        x: 90
+        y: 148
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -979,20 +979,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b27ec4725466a4c44b6af4c838ac98bc
-      internalID: -1223236899
+      spriteID: 12450e44efcc0d04bb3c5f1f7611d9ef
+      internalID: 400165755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_42
+      name: blue_suit_big_42
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 64
-        height: 64
+        x: 152
+        y: 148
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1000,20 +1000,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f0312e3d29dfe346865cc1c3022e8f2
-      internalID: 2073286677
+      spriteID: 92e91fb7785fa5744b875f4c245c2912
+      internalID: -478401148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_43
+      name: blue_suit_big_43
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
-        width: 64
-        height: 64
+        x: 217
+        y: 147
+        width: 13
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1021,20 +1021,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9449dae052af9034aa0d243342c175f1
-      internalID: 423579670
+      spriteID: 3881ff4b4338df843ba7ef96a0a00834
+      internalID: 800809214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_44
+      name: blue_suit_big_44
       rect:
         serializedVersion: 2
-        x: 256
-        y: 128
-        width: 64
-        height: 64
+        x: 280
+        y: 148
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,20 +1042,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29c097dd7df783c4bb646b5bc808d867
-      internalID: 2006114230
+      spriteID: 62ade2b8a11bddd43b85035211c85d14
+      internalID: -1026600838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_45
+      name: blue_suit_big_45
       rect:
         serializedVersion: 2
-        x: 320
-        y: 128
-        width: 64
-        height: 64
+        x: 345
+        y: 148
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1063,20 +1063,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61d6a971ab610824789138261f967a21
-      internalID: 1383142598
+      spriteID: 2a84a9ed48c448b4687e8bc162808491
+      internalID: 1071943558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_46
+      name: blue_suit_big_46
       rect:
         serializedVersion: 2
-        x: 384
-        y: 128
-        width: 64
-        height: 64
+        x: 408
+        y: 148
+        width: 14
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1084,20 +1084,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d0c5f687eec9a945870068e2af32fd1
-      internalID: 1968908637
+      spriteID: faa37487d4c05d04381038a2dfeb2824
+      internalID: 1806317996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_47
+      name: blue_suit_big_47
       rect:
         serializedVersion: 2
-        x: 448
-        y: 128
-        width: 64
-        height: 64
+        x: 474
+        y: 148
+        width: 14
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1105,20 +1105,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 993044b7e0d5e144eb8a0cca916072d9
-      internalID: -1563982684
+      spriteID: 846c201286d0d7247a2ad730aac25e39
+      internalID: -727485935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_48
+      name: blue_suit_big_48
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
+        x: 25
+        y: 84
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1126,20 +1126,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 573ad3d02899d1d43b450e8d2f0bd988
-      internalID: -1557646106
+      spriteID: 44ecf465132d55041b5d0b95dac51d44
+      internalID: -1728478883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_49
+      name: blue_suit_big_49
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
+        x: 91
+        y: 84
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1147,20 +1147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca3c83c072f007a46a72c8ebf6083725
-      internalID: 1315192650
+      spriteID: 88dc505850e2eb742919b6fb080debbd
+      internalID: 2011059807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_50
+      name: blue_suit_big_50
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
+        x: 153
+        y: 84
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1168,20 +1168,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 399ffcf7944e19141b7a00304fd82761
-      internalID: -1118639777
+      spriteID: 67c607dc21b529d44b6368105891a07c
+      internalID: -1868674515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_51
+      name: blue_suit_big_51
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
+        x: 218
+        y: 84
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1189,20 +1189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 949a80c4af92149419ad1c4e265dd9d7
-      internalID: -1965843192
+      spriteID: 7dff9ebc0bda93c45bd0ec58cc29f879
+      internalID: 1064717550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_52
+      name: blue_suit_big_52
       rect:
         serializedVersion: 2
-        x: 256
-        y: 64
-        width: 64
-        height: 64
+        x: 281
+        y: 84
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1210,20 +1210,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98faca7eb8f2af345b0fd59695dd09a9
-      internalID: 1654759662
+      spriteID: f8a93d4fbcb7e5e4b84d41df616c6545
+      internalID: -1883418095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_53
+      name: blue_suit_big_53
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
+        x: 342
+        y: 84
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1231,20 +1231,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf74755a08e548942aac682eb808c298
-      internalID: 355947606
+      spriteID: a179a740a9a89cc4db0a8d5007a484da
+      internalID: -1944810399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_54
+      name: blue_suit_big_54
       rect:
         serializedVersion: 2
-        x: 384
-        y: 64
-        width: 64
-        height: 64
+        x: 406
+        y: 84
+        width: 20
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1252,20 +1252,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 195c2a4e03ddc6d4c8f5719d10239e64
-      internalID: -1845728832
+      spriteID: 7757ef3bcd820e647b7704e1396563ab
+      internalID: 224916543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_55
+      name: blue_suit_big_55
       rect:
         serializedVersion: 2
-        x: 448
-        y: 64
-        width: 64
-        height: 64
+        x: 470
+        y: 84
+        width: 19
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1273,20 +1273,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed5ad90df71fbec40875cf1012f827cf
-      internalID: 2122531072
+      spriteID: 684a84e00bbc66346ac8820da7e4dd73
+      internalID: -614970694
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_56
+      name: blue_suit_big_56
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 64
+        x: 25
+        y: 20
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1294,20 +1294,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3348c73c7a94d5469f1d64bc6070060
-      internalID: -618969470
+      spriteID: af8da1ecaf823ca46b2a53c38835a46d
+      internalID: 622965006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_57
+      name: blue_suit_big_57
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
+        x: 90
+        y: 20
+        width: 11
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1315,20 +1315,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bdd65698f0496a43842e52d7a9adb8e
-      internalID: 1297003972
+      spriteID: 76eafa3e63d4dc344a49fae2362569c2
+      internalID: -2021568438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_58
+      name: blue_suit_big_58
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
+        x: 151
+        y: 20
+        width: 16
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1336,20 +1336,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b66d487fb339c34a9d4c73d866891d1
-      internalID: 1355951874
+      spriteID: a9471c834dbc582449f2b3e2c21d91e4
+      internalID: 206761534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_59
+      name: blue_suit_big_59
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
+        x: 216
+        y: 20
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1357,20 +1357,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7607ce96e24dcdd4bbdf5707009c39b7
-      internalID: -1821978718
+      spriteID: 371d0e66a47ef9149b75e0084484b8a8
+      internalID: 851157508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_60
+      name: blue_suit_big_60
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
+        x: 282
+        y: 20
+        width: 13
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1378,20 +1378,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d37970d0940c2cd4f92ed8dd0fb67e9a
-      internalID: -1707064397
+      spriteID: 88b755537e25372418865ea45755b1d7
+      internalID: 1302863791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_61
+      name: blue_suit_big_61
       rect:
         serializedVersion: 2
-        x: 320
-        y: 0
-        width: 64
-        height: 64
+        x: 343
+        y: 20
+        width: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1399,20 +1399,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25342e9d806e9b14484e1323fa41c743
-      internalID: 238838921
+      spriteID: f0f74f409dd0f284699dd11c552378ca
+      internalID: 101321505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_62
+      name: blue_suit_big_62
       rect:
         serializedVersion: 2
-        x: 384
-        y: 0
-        width: 64
-        height: 64
+        x: 406
+        y: 20
+        width: 20
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1420,20 +1420,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac154c2dbb88e6349868384a490d0680
-      internalID: -1913892824
+      spriteID: 2770706b97829a443b8cd7709b322e66
+      internalID: 1050286189
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01 1_63
+      name: blue_suit_big_63
       rect:
         serializedVersion: 2
-        x: 448
-        y: 0
-        width: 64
-        height: 64
+        x: 471
+        y: 20
+        width: 19
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1441,8 +1441,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04af8fa9109befe459719400871600b8
-      internalID: 850506240
+      spriteID: 0c9423e6b9ad5cb4faf81f533406f883
+      internalID: -886511949
       vertices: []
       indices: 
       edges: []
@@ -1458,70 +1458,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      char_a_p1_0bas_humn_v01 1_32: -1915788971
-      char_a_p1_0bas_humn_v01 1_58: 1355951874
-      char_a_p1_0bas_humn_v01 1_13: 1474968843
-      char_a_p1_0bas_humn_v01 1_53: 355947606
-      char_a_p1_0bas_humn_v01 1_50: -1118639777
-      char_a_p1_0bas_humn_v01 1_45: 1383142598
-      char_a_p1_0bas_humn_v01 1_24: -755786925
-      char_a_p1_0bas_humn_v01 1_31: -282912186
-      char_a_p1_0bas_humn_v01 1_8: -10021783
-      char_a_p1_0bas_humn_v01 1_27: 1293715813
-      char_a_p1_0bas_humn_v01 1_51: -1965843192
-      char_a_p1_0bas_humn_v01 1_46: 1968908637
-      char_a_p1_0bas_humn_v01 1_54: -1845728832
-      char_a_p1_0bas_humn_v01 1_56: -618969470
-      char_a_p1_0bas_humn_v01 1_48: -1557646106
-      char_a_p1_0bas_humn_v01 1_38: -1427357989
-      char_a_p1_0bas_humn_v01 1_47: -1563982684
-      char_a_p1_0bas_humn_v01 1_17: 693147406
-      char_a_p1_0bas_humn_v01 1_25: -955401152
-      char_a_p1_0bas_humn_v01 1_63: 850506240
-      char_a_p1_0bas_humn_v01 1_16: -1521444845
-      char_a_p1_0bas_humn_v01 1_18: 1092356384
-      char_a_p1_0bas_humn_v01 1_2: -1916819943
-      char_a_p1_0bas_humn_v01 1_4: 443709240
-      char_a_p1_0bas_humn_v01 1_60: -1707064397
-      char_a_p1_0bas_humn_v01 1_40: 499549304
-      char_a_p1_0bas_humn_v01 1_1: 398353816
-      char_a_p1_0bas_humn_v01 1_12: -1296944180
-      char_a_p1_0bas_humn_v01 1_23: 1852123155
-      char_a_p1_0bas_humn_v01 1_33: -1111540509
-      char_a_p1_0bas_humn_v01 1_42: 2073286677
-      char_a_p1_0bas_humn_v01 1_29: -1783366817
-      char_a_p1_0bas_humn_v01 1_28: 130882393
-      char_a_p1_0bas_humn_v01 1_5: 390756935
-      char_a_p1_0bas_humn_v01 1_37: 215104617
-      char_a_p1_0bas_humn_v01 1_59: -1821978718
-      char_a_p1_0bas_humn_v01 1_15: 1126223366
-      char_a_p1_0bas_humn_v01 1_52: 1654759662
-      char_a_p1_0bas_humn_v01 1_20: 478208978
-      char_a_p1_0bas_humn_v01 1_43: 423579670
-      char_a_p1_0bas_humn_v01 1_26: 772706824
-      char_a_p1_0bas_humn_v01 1_10: -24345350
-      char_a_p1_0bas_humn_v01 1_7: 1663547377
-      char_a_p1_0bas_humn_v01 1_19: -799830381
-      char_a_p1_0bas_humn_v01 1_35: 663971563
-      char_a_p1_0bas_humn_v01 1_57: 1297003972
-      char_a_p1_0bas_humn_v01 1_9: 76892916
-      char_a_p1_0bas_humn_v01 1_39: -1973597605
-      char_a_p1_0bas_humn_v01 1_3: -539167512
-      char_a_p1_0bas_humn_v01 1_44: 2006114230
-      char_a_p1_0bas_humn_v01 1_61: 238838921
-      char_a_p1_0bas_humn_v01 1_0: 506848701
-      char_a_p1_0bas_humn_v01 1_6: 452978731
-      char_a_p1_0bas_humn_v01 1_14: 1479099075
-      char_a_p1_0bas_humn_v01 1_11: -254661083
-      char_a_p1_0bas_humn_v01 1_41: -1223236899
-      char_a_p1_0bas_humn_v01 1_30: -474934628
-      char_a_p1_0bas_humn_v01 1_49: 1315192650
-      char_a_p1_0bas_humn_v01 1_21: 365364565
-      char_a_p1_0bas_humn_v01 1_22: 1394611032
-      char_a_p1_0bas_humn_v01 1_36: 1729229229
-      char_a_p1_0bas_humn_v01 1_62: -1913892824
-      char_a_p1_0bas_humn_v01 1_34: 1359291082
-      char_a_p1_0bas_humn_v01 1_55: 2122531072
+      blue_suit_big_9: 1904428901
+      blue_suit_big_16: 392936134
+      blue_suit_big_2: -1983683788
+      blue_suit_big_36: -1676722953
+      blue_suit_big_25: 759875148
+      blue_suit_big_24: 520532013
+      blue_suit_big_30: -1954276021
+      blue_suit_big_51: 1064717550
+      blue_suit_big_3: 1582595050
+      blue_suit_big_52: -1883418095
+      blue_suit_big_1: 443451145
+      blue_suit_big_45: 1071943558
+      blue_suit_big_4: -1957342590
+      blue_suit_big_37: -1953232952
+      blue_suit_big_43: 800809214
+      blue_suit_big_0: 1729746432
+      blue_suit_big_23: 596753514
+      blue_suit_big_15: -64043212
+      blue_suit_big_48: -1728478883
+      blue_suit_big_59: 851157508
+      blue_suit_big_57: -2021568438
+      blue_suit_big_34: -1813113023
+      blue_suit_big_56: 622965006
+      blue_suit_big_42: -478401148
+      blue_suit_big_18: 365161156
+      blue_suit_big_46: 1806317996
+      blue_suit_big_49: 2011059807
+      blue_suit_big_33: -1099501468
+      blue_suit_big_26: -1847795075
+      blue_suit_big_22: 456504903
+      blue_suit_big_28: -1104545443
+      blue_suit_big_13: -1243682046
+      blue_suit_big_19: -998519726
+      blue_suit_big_44: -1026600838
+      blue_suit_big_54: 224916543
+      blue_suit_big_58: 206761534
+      blue_suit_big_17: 2108752009
+      blue_suit_big_39: -1262933159
+      blue_suit_big_7: 1544426397
+      blue_suit_big_10: 1070903926
+      blue_suit_big_29: -393851235
+      blue_suit_big_53: -1944810399
+      blue_suit_big_55: -614970694
+      blue_suit_big_20: -1695343776
+      blue_suit_big_8: -1521723593
+      blue_suit_big_47: -727485935
+      blue_suit_big_38: -1845136189
+      blue_suit_big_61: 101321505
+      blue_suit_big_14: 931447797
+      blue_suit_big_5: 592732381
+      blue_suit_big_21: -1436261001
+      blue_suit_big_6: 467575564
+      blue_suit_big_62: 1050286189
+      blue_suit_big_11: -168820282
+      blue_suit_big_32: 1414837303
+      blue_suit_big_63: -886511949
+      blue_suit_big_35: -583674949
+      blue_suit_big_40: 784995112
+      blue_suit_big_12: -915186862
+      blue_suit_big_31: 483186079
+      blue_suit_big_27: 2052019223
+      blue_suit_big_41: 400165755
+      blue_suit_big_60: 1302863791
+      blue_suit_big_50: -1868674515
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

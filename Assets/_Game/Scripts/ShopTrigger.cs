@@ -7,6 +7,8 @@ public class ShopTrigger : MonoBehaviour
     public ShopPrompt shopPrompt = null;
     public ShopController buyShopController = null, sellShopController = null;
 
+    public Canvas actionPromptCanvas = null;
+
     private bool isInTrigger = false;
 
     private void Update()
@@ -25,7 +27,7 @@ public class ShopTrigger : MonoBehaviour
                     buyShopController.Show(false);
                     sellShopController.Show(false);
                 }
-
+                actionPromptCanvas.enabled = false;
                 // buyShopController.ShowShop(!buyShopController.IsShown());
             }
         }
@@ -33,6 +35,7 @@ public class ShopTrigger : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         isInTrigger = true;
+        actionPromptCanvas.enabled = true;
         //also show the promt: press E to enter shop
     }
     private void OnTriggerExit2D(Collider2D collision)
@@ -42,6 +45,7 @@ public class ShopTrigger : MonoBehaviour
         shopPrompt.Show(false);
         buyShopController.Show(false);
         sellShopController.Show(false);
+        actionPromptCanvas.enabled = false;
     }
 
 

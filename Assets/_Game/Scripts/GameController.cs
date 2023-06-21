@@ -37,7 +37,7 @@ public class GameController : MonoBehaviour
         }
         instance = this;
 
-        CoinAmount = 20;
+        CoinAmount = 50;
     }
 
     // Start is called before the first frame update

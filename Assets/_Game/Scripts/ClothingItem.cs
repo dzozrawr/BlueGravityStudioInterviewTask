@@ -6,5 +6,6 @@ using ClothingItems;
 public class ClothingItem : MonoBehaviour
 {
     public ItemID id;
+    public ClothingType type;
     public Animator animator=null;
 }

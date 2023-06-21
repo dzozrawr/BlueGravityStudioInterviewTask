@@ -7,7 +7,12 @@ namespace ClothingItems
 {
     public enum ItemID
     {
-        WizardHat
+        WizardHat, YellowSuit, BlueSuit
+    }
+
+    public enum ClothingType
+    {
+        Hat, Suit
     }
     [CreateAssetMenu(fileName = "New Clothing Item", menuName = "Clothes/Item")]
     public class ClothingItemInfo : ScriptableObject
